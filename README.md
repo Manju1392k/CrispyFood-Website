@@ -1,6 +1,6 @@
 # ℹ️ Crispy-Food
 
-The Crispy-food is a simple food.It contains Recipe's about food item like **Veg🥔 | Non-Veg**🍗.
+The Crispy-food is a Website for food Blogs.It contains Recipe's about food item like **Veg🥔 | Non-Veg**🍗.
 This Website Contains about Foods blogs
 and Recipe's 🍕
 
